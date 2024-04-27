@@ -3,7 +3,7 @@ import "./global.css"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Ecommerce",
+  title: "Kelexa",
   description: "Made with Kashan Adnan",
 };
 
