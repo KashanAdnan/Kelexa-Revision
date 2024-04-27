@@ -16,6 +16,9 @@ const Main = () => {
                     </div>
                 </div>
             </div>
+            <div className='w-full text-center mt-[12rem] leading-10 text-lg font-normal px-6'>
+                <p>Increase sales, get more leads, and ensure your strategy resonates with <br /> your business goals using our Google Ads services.</p>
+            </div>
         </>
     )
 }
